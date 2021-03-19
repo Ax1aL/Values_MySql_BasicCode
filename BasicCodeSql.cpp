@@ -86,7 +86,7 @@ int main()
 		switch (s[0]) {//depending on the first letter
 			case 'N': {//NUMBER
 					strcat_s(outputValues[0], "1,");//could have found a nicer way but it does the work for only 5 lines
-					strcat_s(outputValues[1], "2,");
+					strcat_s(outputValues[1], "2,");//and wouldn't work with forloop
 					strcat_s(outputValues[2], "3,");
 					strcat_s(outputValues[3], "4,");
 					strcat_s(outputValues[4], "5,");
