@@ -122,13 +122,8 @@ int main()
 			default: {cout << "Not good!"; }//we should get here
 		}
 
-
-
-
 	}
-
-
-   
+	
 }
 
 
