@@ -1,2 +1,3 @@
 # Values_MySql_BasicCode
-If you need to add many values it's a default code for MySql
+It's a simple program for creating a template for inserting rows in columns for MySql.
+It's for easier completing and testing some tables(that was the point) instead of copy pasting.
