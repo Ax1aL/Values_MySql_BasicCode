@@ -1,6 +1,5 @@
-//Copyright @Ax1aL -Radu
 //this code will work only if some rules are
-//respected for the input example:
+//respected for the input,example:(spaces and capitalization)
 /*CREATE TABLE "Planet"
 			("Planet_ID" NUMBER(10, 0),
 				"Name" VARCHAR2(255),
